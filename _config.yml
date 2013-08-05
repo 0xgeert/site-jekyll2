@@ -5,7 +5,7 @@ rdiscount:
   extensions: [smart]
 
 name: clearskyabove
-url: http://clearskyabove.com
+url: http://clearskyabove.comy
 description: A starter blog
 twitter: clearskyabove
 github: clearskyabove
